@@ -94,13 +94,16 @@ Now do step 4 again to run the program.
 ## Demo Videos
 
 1. Single extrusion operation
-   <video src="babylon-project/demo_videos/single_extrusion.mp4">
+
+https://github.com/Apoorvg2000/Snaptrude-Assignment-Babylon.js/assets/54017314/20073f59-13b1-47c9-8e29-27e53af85d6e
 
 2. Multiple extrusion operation
-   <video src="babylon-project/demo_videos/multiple_extrusions.mp4">
 
-3. Multiple extrusion operation bug
-   <video src="babylon-project/demo_videos/multiple_extrusions_bug.mp4">
+https://github.com/Apoorvg2000/Snaptrude-Assignment-Babylon.js/assets/54017314/a7738835-f359-4382-9aa2-2adf1eb3aad8
+
+4. Multiple extrusion operation bug
+
+https://github.com/Apoorvg2000/Snaptrude-Assignment-Babylon.js/assets/54017314/67e33334-d7f1-4a79-b440-04dc80ff10e8
 
 ## Personal Note
 
