@@ -101,7 +101,7 @@ https://github.com/Apoorvg2000/Snaptrude-Assignment-Babylon.js/assets/54017314/2
 
 https://github.com/Apoorvg2000/Snaptrude-Assignment-Babylon.js/assets/54017314/a7738835-f359-4382-9aa2-2adf1eb3aad8
 
-4. Multiple extrusion operation bug
+3. Multiple extrusion operation bug
 
 https://github.com/Apoorvg2000/Snaptrude-Assignment-Babylon.js/assets/54017314/67e33334-d7f1-4a79-b440-04dc80ff10e8
 
