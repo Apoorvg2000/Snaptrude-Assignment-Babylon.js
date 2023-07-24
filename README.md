@@ -51,7 +51,7 @@ Also make sure that latest version of `npm` is installed.
 1. Clone the repository.
 
 ```
-paste link here
+git clone https://github.com/Apoorvg2000/Snaptrude-Assignment-Babylon.js.git
 ```
 
 2. In terminal, navigate to the `babylon-project` directory.
