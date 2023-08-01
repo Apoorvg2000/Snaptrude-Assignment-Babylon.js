@@ -111,6 +111,4 @@ I had a really fun time working on this project. This was a very interesting pro
 
 To think that I could implement this project in only 4 days (even though there are some flaws) is something I never would have imagined.
 
-Although there are some limitations in this project as mentioned [above](#limitations-and-bugs), I am confident that if I had 1 or 2 more days, I could have resolved the bugs.
-
 Thank you !!!
